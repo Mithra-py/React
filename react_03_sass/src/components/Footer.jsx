@@ -4,7 +4,7 @@ const Footer = () => {
   return (
     <footer>
       <p className={footerStyle['title']}>
-        Copyright by Clarusway {new Date().getFullYear()}
+        Copyright by Mithra {new Date().getFullYear()}
       </p>
     </footer>
   );
